@@ -9,10 +9,16 @@
 - https://arxiv.org/abs/1202.2745
 
 ## RUN
-`console
+- qtconsole
+```
 %%time
 %run ---.py
-`
+```
 
 ## Result
 
+```text
+Test set(9): Average loss: 0.0420, Accuracy: 9862/10000 (99%)
+
+Wall time: 9min 56s
+```
