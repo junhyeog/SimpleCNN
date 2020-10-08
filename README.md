@@ -6,7 +6,7 @@
 - https://www.youtube.com/watch?v=2-75C-yZaoA&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=36&ab_channel=SungKim
 
 ## Paper
-- https://arxiv.org/abs/1202.2745
+- https://arxiv.org/pdf/1202.2745(https://arxiv.org/abs/1202.2745)
 
 ## RUN
 - qtconsole
@@ -18,7 +18,8 @@
 ## Result
 
 ```text
-Test set(9): Average loss: 0.0420, Accuracy: 9862/10000 (99%)
+Test set(9): Average loss: 0.0420, Accuracy: 9859/10000 (99%)
 
-Wall time: 9min 56s
+CPU times: user 54.1 s, sys: 2.03 s, total: 56.1 s
+Wall time: 1min 8s
 ```
