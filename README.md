@@ -1,4 +1,4 @@
-# SimpleCNN - MNIST classification accuracy
+# SimpleCNN - MNIST classification
 ---
 ## lecture
 - https://www.youtube.com/watch?v=LgFNRIFxuUo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=10&ab_channel=SungKim
